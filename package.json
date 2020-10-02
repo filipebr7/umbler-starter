@@ -8,6 +8,7 @@
     "start": "node app"
   },
   "dependencies": {
-    "express": "4.x.x"
+    "express": "4.x.x",
+    "gatsby-cli": "^2.12.102"
   }
 }
